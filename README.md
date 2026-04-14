@@ -86,7 +86,7 @@ http://127.0.0.1:5000/
 
 The dataset used in this project is not included in the repository due to size limitations.
 
-👉 You can access it here: *(Add your Google Drive / Kaggle link here)*
+👉 You can access it here: https://drive.google.com/drive/folders/1yYqQCFzdxzp1GiBMrk_8R8J46NBItJim?usp=sharing
 
 ---
 
