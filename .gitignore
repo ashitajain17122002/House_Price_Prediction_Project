@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+.env
+venv/
+.ipynb_checkpoints/
+tempCodeRunnerFile.py
